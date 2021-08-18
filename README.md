@@ -3,7 +3,7 @@
 This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), deployed to [AWS Elastic Beanstalk](http://devopstutorial-env.eba-2zew8vvq.us-east-2.elasticbeanstalk.com)
 
 ## Architecture
-![Architecture](/AWS_Demo/application_architecture.png?raw=true)
+![Architecture](/AWS_Demo/application_architecture.png)
 
 ## License
 
