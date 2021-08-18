@@ -1,10 +1,9 @@
 # AWS Elastic Beanstalk Node.js Sample App
 
-This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), meant to be used as part of the AWS DevOps Learning Path.
+This repository contains a sample Node.js web application built using [Express](https://expressjs.com/), deployed to [AWS Elastic Beanstalk](http://devopstutorial-env.eba-2zew8vvq.us-east-2.elasticbeanstalk.com)
 
-## Security
-
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+## Architecture
+![Architecture](/AWS_Demo/application_architecture.png?raw=true)
 
 ## License
 
